@@ -7,8 +7,8 @@ AppPlatform: android
 AppVersion: 325
 Content-Type: application/json
 CategoryGroup: WOMAN
-X-Signature: 0d8736b974ad47713df1a4f21ade4ac51530c811d43c53835b6d58cb8f6061ccb4f0f703db3b50f87786d0a5e6192b6d67975cafff6e29f6f4f27696ef2f6a14
-X-Epoch-Seconds: 1661436041
+X-Signature: c336194fa5fe7b50ff2ed25515b918ac123371e8b0b0057ce17c8371e5e662a4c80a42cea0b32b0bb9e04ff9cd89e405c8b91cdbf8bacf993e4780d74cefd9bd
+X-Epoch-Seconds: 1661525809
 Content-Length: 0
 Host: api.dolap.com
 Connection: Keep-Alive
