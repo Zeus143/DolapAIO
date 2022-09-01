@@ -1,14 +1,14 @@
-POST https://api.dolap.com/product/like/227592434 HTTP/1.1
-tracestate: @nr=0-2-2342283-594320097-ee517235e14c42d1----1661887718608
-traceparent: 00-aacb96b2f828434587ab39d6a168176f-ee517235e14c42d1-00
-newrelic: eyJ2IjpbMCwyXSwiZCI6eyJkLnR5IjoiTW9iaWxlIiwiZC5hYyI6IjIzNDIyODMiLCJkLmFwIjoiNTk0MzIwMDk3IiwiZC50ciI6ImFhY2I5NmIyZjgyODQzNDU4N2FiMzlkNmExNjgxNzZmIiwiZC5pZCI6ImVlNTE3MjM1ZTE0YzQyZDEiLCJkLnRpIjoxNjYxODg3NzE4NjA4fX0=
+POST https://api.dolap.com/product/like/228043865 HTTP/1.1
+tracestate: @nr=0-2-2342283-594320097-556d10cabb29420d----1662065785995
+traceparent: 00-19cbb3022ae14fc7a4a73a643054e0aa-556d10cabb29420d-00
+newrelic: eyJ2IjpbMCwyXSwiZCI6eyJkLnR5IjoiTW9iaWxlIiwiZC5hYyI6IjIzNDIyODMiLCJkLmFwIjoiNTk0MzIwMDk3IiwiZC50ciI6IjE5Y2JiMzAyMmFlMTRmYzdhNGE3M2E2NDMwNTRlMGFhIiwiZC5pZCI6IjU1NmQxMGNhYmIyOTQyMGQiLCJkLnRpIjoxNjYyMDY1Nzg1OTk1fX0=
 Access-Token: 3498f225-a721-4598-89b9-6ca132badd7df94a2e43-9b90-4695-a357-03737dd0370d
 AppPlatform: android
 AppVersion: 325
 Content-Type: application/json
 CategoryGroup: WOMAN
-X-Signature: 6f1517c8740b25895af29a879678c92ab56cc973242a9e43addeba02e3e7712ec6e4170ac7737d07b50c207d2bc6c4748dc4b692b123f5dc2dc50947a901f580
-X-Epoch-Seconds: 1661972861
+X-Signature: 0fa3e7fa6db2a17cab6888c47663964b682534dcd4fa434957944767561feb82ed4cd53555d04a7795b1e71f0ad76a3ab3d3483a49ed12da9caa0deadd9ea48b
+X-Epoch-Seconds: 1662065786
 Content-Length: 0
 Host: api.dolap.com
 Connection: Keep-Alive
