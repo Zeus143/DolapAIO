@@ -1,19 +1,19 @@
-POST https://api.dolap.com/member/trendyol HTTP/1.1
-tracestate: @nr=0-2-2342283-594320097-f13100af7d654d33----1661796084519
-traceparent: 00-893facda27df4b4ab0fc78c7c4d175f1-f13100af7d654d33-00
-newrelic: eyJ2IjpbMCwyXSwiZCI6eyJkLnR5IjoiTW9iaWxlIiwiZC5hYyI6IjIzNDIyODMiLCJkLmFwIjoiNTk0MzIwMDk3IiwiZC50ciI6Ijg5M2ZhY2RhMjdkZjRiNGFiMGZjNzhjN2M0ZDE3NWYxIiwiZC5pZCI6ImYxMzEwMGFmN2Q2NTRkMzMiLCJkLnRpIjoxNjYxNzk2MDg0NTE5fX0=
+POST https://api.dolap.com/member/login HTTP/1.1
+tracestate: @nr=0-2-2342283-594320097-3627b3d694cf4da2----1662557483109
+traceparent: 00-da99145dccf54941a0cc3cc4e18e693e-3627b3d694cf4da2-00
+newrelic: eyJ2IjpbMCwyXSwiZCI6eyJkLnR5IjoiTW9iaWxlIiwiZC5hYyI6IjIzNDIyODMiLCJkLmFwIjoiNTk0MzIwMDk3IiwiZC50ciI6ImRhOTkxNDVkY2NmNTQ5NDFhMGNjM2NjNGUxOGU2OTNlIiwiZC5pZCI6IjM2MjdiM2Q2OTRjZjRkYTIiLCJkLnRpIjoxNjYyNTU3NDgzMTA5fX0=
 Access-Token: 
 AppPlatform: android
-AppVersion: 325
+AppVersion: 329
 CategoryGroup: WOMAN
-X-Signature: 5f153389dc9b58f42b773e3fa323d509900caea9a977ec480a27e15219b58434096349a66d4fbe7cd1c404a000b5767422416837c3ed0171c1538c30da518b6e
-X-Epoch-Seconds: 1661796084
+X-Signature: 3380314e26dced0ee93515b48ee22d1171ebcb1aaf4e52a7af1f2984020ce5bc47cc457f1bdceb8cbb08fed4dc16f8c96e46775368d87e32a33f2baad0579d0b
+X-Epoch-Seconds: 1662557483
 Content-Type: application/json; charset=UTF-8
-Content-Length: 791
+Content-Length: 156
 Host: api.dolap.com
 Connection: Keep-Alive
 Accept-Encoding: gzip
 User-Agent: okhttp/4.9.1
 X-NewRelic-ID: VgUDU1RbCxAFXVVRBQEHX1M=
 
-{"advertisingId":"32e96b99-cae1-42e6-9106-54a24b0148f1","idToken":"eyJraWQiOiJlNGMyZWYyOS1jM2YwLTQ2ZWQtYTg0Yy0yMThhNTgwOTNiYTIiLCJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiJkOGVjOGZhNS1lNzhmLTRlNzUtYTg5NS1hY2IxZGM4MWY4MzkiLCJzdWIiOiI5OTExMzUzOSIsImVtYWlsU3RhdHVzIjozLCJpc3MiOiJhY2NvdW50LnRyZW5keW9sLmNvbSIsImV4cCI6MTY2MTc5NjY4MywiaWF0IjoxNjYxNzk2MDgzLCJlbWFpbCI6InZ5NnZ1MjE5QHd3am1wLmNvbSJ9.JlKJb_iXerBjUiFhr55lYkrPFcHwVK92tfWFRYGL4HsFcAZBIFYaKzLXqkduVrCV9QtVgQYfLoOWQOfpn5HEMHlvVFQhoUtrvNtCgs84-TZOquwclrUcRJZJBoYwcNXzJGjEmsS3PpmDqQO0npkVy9u-YjPFuJNxkUI_V0R7wdjM3_0AQdIK2QgFRuTSdUmoQxGp6VUCPy8_qlBayL6hEaI2-VLvSA7v6PAgU4B1Zgw8T6sDCzAq-_X8hnWzfAy8JSIh6EicyO6KtzOKMq7gDJliqQppFfLVDElFxcFnP8t4eNaIdnyYON3GblL67fgn1Z2BbV146QO4b-fY1ZYpyA","memberCookie":"f16cb1fb-35ba-493c-9ef8-eaa06525363a"}
+{"advertisingId":"40deff74-ae6f-4f1e-a66f-4a1ac1204448","memberCookie":"22f20466-6ec4-4bad-9f84-a8e3fe144453","password":"Azer123--","username":"magicfoot"}
