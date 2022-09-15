@@ -1,3 +1,19 @@
-X-Signature: c7302b1ac423fcfda605b22ef75ad74ce41515b795abf170b67dc04057c919ff271242c2c2796689cf9e003986093481a12e2bc21e53f77cc4b53dcbe6e47fae
-X-Epoch-Seconds: 1663234987
+POST https://api.dolap.com/member/login HTTP/1.1
+traceparent: 00-8ae9be731b8f4634825fd6e4162eec94-06f63eb113be4af0-00
+tracestate: @nr=0-2-2342283-594320097-06f63eb113be4af0----1663264854391
+newrelic: eyJ2IjpbMCwyXSwiZCI6eyJkLnR5IjoiTW9iaWxlIiwiZC5hYyI6IjIzNDIyODMiLCJkLmFwIjoiNTk0MzIwMDk3IiwiZC50ciI6IjhhZTliZTczMWI4ZjQ2MzQ4MjVmZDZlNDE2MmVlYzk0IiwiZC5pZCI6IjA2ZjYzZWIxMTNiZTRhZjAiLCJkLnRpIjoxNjYzMjY0ODU0MzkxfX0=
+Access-Token: 
+AppPlatform: android
+AppVersion: 331
+CategoryGroup: WOMAN
+X-Signature: e43680e8cd6222acb42d86d626c03b60728dea6df5209256ee0284e039966e8635391c9842d64419065b6905832668f34ab3d0d375e28ccff7f36e859abfdde9
+X-Epoch-Seconds: 1663264854
+Content-Type: application/json; charset=UTF-8
+Content-Length: 150
+Host: api.dolap.com
+Connection: Keep-Alive
+Accept-Encoding: gzip
+User-Agent: okhttp/4.9.1
+X-NewRelic-ID: VgUDU1RbCxAFXVVRBQEHX1M=
 
+{"advertisingId":"da51ada4-3f3b-4b29-99a4-dc285b756bcd","memberCookie":"38a58746-0a27-4eb7-aac6-4e80b18e6622","password":"asdwqe","username":"asdqwe"}
