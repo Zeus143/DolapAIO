@@ -1,19 +1,18 @@
-POST https://api.dolap.com/member/login HTTP/1.1
-traceparent: 00-8ae9be731b8f4634825fd6e4162eec94-06f63eb113be4af0-00
-tracestate: @nr=0-2-2342283-594320097-06f63eb113be4af0----1663264854391
-newrelic: eyJ2IjpbMCwyXSwiZCI6eyJkLnR5IjoiTW9iaWxlIiwiZC5hYyI6IjIzNDIyODMiLCJkLmFwIjoiNTk0MzIwMDk3IiwiZC50ciI6IjhhZTliZTczMWI4ZjQ2MzQ4MjVmZDZlNDE2MmVlYzk0IiwiZC5pZCI6IjA2ZjYzZWIxMTNiZTRhZjAiLCJkLnRpIjoxNjYzMjY0ODU0MzkxfX0=
-Access-Token: 
+POST https://api.dolap.com/product/like/215297737 HTTP/1.1
+tracestate: @nr=0-2-2342283-594320097-b910fd7a5cda4515----1663420601145
+newrelic: eyJ2IjpbMCwyXSwiZCI6eyJkLnR5IjoiTW9iaWxlIiwiZC5hYyI6IjIzNDIyODMiLCJkLmFwIjoiNTk0MzIwMDk3IiwiZC50ciI6IjkwOGM0YjM2NDFkODRhMmNhZmEwN2JkZmY0MzQ5ZmRmIiwiZC5pZCI6ImI5MTBmZDdhNWNkYTQ1MTUiLCJkLnRpIjoxNjYzNDIwNjAxMTQ1fX0=
+traceparent: 00-908c4b3641d84a2cafa07bdff4349fdf-b910fd7a5cda4515-00
+Access-Token: 5473ca5a-6dc0-40f1-bc80-85186162fc9c6306a89e-1e01-4cb0-b4d5-8833e4ca26de
 AppPlatform: android
-AppVersion: 331
+AppVersion: 329
+Content-Type: application/json
 CategoryGroup: WOMAN
-X-Signature: e43680e8cd6222acb42d86d626c03b60728dea6df5209256ee0284e039966e8635391c9842d64419065b6905832668f34ab3d0d375e28ccff7f36e859abfdde9
-X-Epoch-Seconds: 1663264854
-Content-Type: application/json; charset=UTF-8
-Content-Length: 150
+X-Signature: bfbf9b910a4d586f942ba81524568fbcc343795872136d15d63db12c18e0bf79c66b89b1ec245bbef2f3addef75793714eae5051babe3d5d1ee5959856ecd7be
+X-Epoch-Seconds: 1663420601
+Content-Length: 0
 Host: api.dolap.com
 Connection: Keep-Alive
 Accept-Encoding: gzip
 User-Agent: okhttp/4.9.1
 X-NewRelic-ID: VgUDU1RbCxAFXVVRBQEHX1M=
 
-{"advertisingId":"da51ada4-3f3b-4b29-99a4-dc285b756bcd","memberCookie":"38a58746-0a27-4eb7-aac6-4e80b18e6622","password":"asdwqe","username":"asdqwe"}
